@@ -87,4 +87,4 @@ This setup allows your stopwatch to show each digit clearly and efficiently.
 
 ## Practical implementation Photos:
 [Entire Circuit](https://github.com/Veda1906/Stop_Clock/blob/main/Whole%20circuit.jpeg)
-[Clock Generator with 555 timer]([(https://github.com/Veda1906/Stop_Clock/blob/main/555%20timer.jpeg)])
+[Clock Generator with 555 timer](https://github.com/Veda1906/Stop_Clock/blob/main/555%20timer.jpeg)
